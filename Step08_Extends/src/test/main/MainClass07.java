@@ -42,6 +42,6 @@ public class MainClass07 {
 		//위의 2줄을 조금더 줄이면
 		((Phone)objs[3]).call();
 		
-		
+		//지역변수 e 에 저장된 참조값을 이용해서 전화를 걸어보세요.
 	}
 }
