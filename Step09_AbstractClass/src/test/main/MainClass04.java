@@ -2,7 +2,7 @@ package test.main;
 
 public class MainClass04 {
 	// static 메소드 안에서 사용하려면 static 예약어가 필요!
-	public class Gura{
+	public static class Gura{
 		public void say() {
 			System.out.println("안녕! 나는 구라야!");
 		}

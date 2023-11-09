@@ -1,7 +1,7 @@
 package test.main;
 
 public class MainClass06 {
-	//static 메소드에서 사용하는 필드는 static 필드로 만들어야 사용할수 있다.
+	static //static 메소드에서 사용하는 필드는 static 필드로 만들어야 사용할수 있다.
 	int num = 999;
 	
 	public static void main(String[] args) {
