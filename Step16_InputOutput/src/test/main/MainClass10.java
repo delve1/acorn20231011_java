@@ -1,4 +1,4 @@
-package test.main;
+-ckage test.main;
 
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;
