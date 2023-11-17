@@ -39,7 +39,7 @@ public class MainClass01 {
 					 	+ " FROM emp"
 					 	+ " ORDER BY empno ASC";
 			//PreparedStatement 객체의 참조값 얻어오기
-			pstmt=conn.prepareStatement(sql);
+			pstmt=conn.prepareStatement(sql); 
 			 //SELECT 문 실행하고 결과 값을 ResultSet 으로 얻어내기
 			 rs=pstmt.executeQuery();
 			 
