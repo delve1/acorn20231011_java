@@ -1,5 +1,7 @@
 package test.main;
 
+import java.util.ArrayList;
+
 import test.mypac.HandPhone;
 
 public class MainClass01 {
@@ -22,5 +24,7 @@ public class MainClass01 {
 		p1.call();
 		p1.mobileCall();
 		p1.takePicture();
+		ArrayList<Double> nums = new ArrayList<>();
+		nums.add(10.1, 10.2, )
 	}
 }

@@ -43,11 +43,11 @@ public class Test {
 	}
 	// int type 을 메소드의 인자로 전달 받는 메소드
 	public void setNum(int num) {
-		new Test().setNum(num);
+		
 	}
 	// String type 을 메소드의 인자로 전달 받는 메소드
 	public void setName(String Name) {
-		new Test().setName(Name);
+		
 	}
 	// Airplane type 을 메소드의 인자로 전달 받는 메소드
 	public void setPlane(Airplane plane) {

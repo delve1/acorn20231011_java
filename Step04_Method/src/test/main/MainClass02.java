@@ -9,7 +9,7 @@ public class MainClass02 {
 		t.doSomething(10, "kim", new Airplane());
 		t.send();
 		t.send(0);
-		t.send("kim");
+		t.send("");
 		t.send(new Airplane());
 	}
 }
